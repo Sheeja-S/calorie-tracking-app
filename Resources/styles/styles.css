@@ -1,0 +1,17 @@
+h1 {
+  color: #6666ff;
+  font-style: italic;
+  font-family: Lucida Console;
+   }
+body
+{
+    background-image: url("../../resources/images/image2.jpg");
+}
+label{
+  color: #ffe6e6;
+}
+h3
+{
+  color: e6e600;
+  font-style: oblique;;
+}
