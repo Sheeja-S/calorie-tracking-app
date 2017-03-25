@@ -1,13 +1,16 @@
-h1 {
+h1
+{
   color: #6666ff;
   font-style: italic;
   font-family: Lucida Console;
-   }
+}
 body
 {
     background-image: url("../../resources/images/image2.jpg");
 }
-label{
+
+label
+{
   color: #ffe6e6;
 }
 h3
